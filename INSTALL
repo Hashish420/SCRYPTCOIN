@@ -1,0 +1,9 @@
+Building scrypt
+
+See doc/readme-qt.rst for instructions on building scrypt-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of scrypt.
+
+See doc/build-*.txt for instructions on building scryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of scrypt.
